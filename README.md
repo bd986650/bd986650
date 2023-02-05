@@ -13,4 +13,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qwotic&show_icons=true&locale=en&layout=compact" alt="qwotic" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qwotic&show_icons=true&locale=en" alt="qwotic" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=qwotic&show_icons=true&locale=en" alt="qwotic" /></p>
