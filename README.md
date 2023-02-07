@@ -1,4 +1,4 @@
- - 👨‍💻 All of my projects are available at [https://github.com/qwotic](https://github.com/qwotic)
+- 👨‍💻 All of my projects are available at [https://github.com/qwotic](https://github.com/qwotic)
 
 - 📝 I write articles on [https://habr.com/ru/users/qwoticreator/](https://habr.com/ru/users/qwoticreator/)
 
