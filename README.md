@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <i class="fa-brands fa-telegram"><a href="https://t.me/qwotic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="qwoticreator" height="30" width="40" /></a></i>
+  <a href="https://t.me/qwotic" target="blank"><img align="center" src="https://shag-ma.ru/upload/medialibrary/c68/f5ohbhncu78zqgdjkaegpbfsa60yug1q.png" height="30" width="30" /></a>
 <a href="https://discord.gg/#2687" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#2687" height="30" width="40" /></a>
 </p>
 
