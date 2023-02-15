@@ -1,4 +1,4 @@
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=FFFFFF&height=40&lines=iOS+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=FFFFFF&height=40&lines=iOS+Developer)](https://git.io/typing-svg)
 
 - 👨‍💻 All of my projects are available at [https://github.com/qwotic](https://github.com/qwotic)
 
