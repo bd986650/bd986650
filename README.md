@@ -16,3 +16,6 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=qwotic&show_icons=true&locale=en&hide=contribs&count_private=true&include_all_commits=true&line_height=24)
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=qwotic&show_icons=true&locale=en&layout=compact)
+
+[![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white)](https://github.com/qwotic/)
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=qwotic&title=Profile%20views)
