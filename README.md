@@ -4,7 +4,6 @@
 
 📝 I write articles on [https://habr.com/ru/users/qwoticreator/](https://habr.com/ru/users/qwoticreator/)
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://t.me/qwotic" target="blank"><img align="center" src="https://shag-ma.ru/upload/medialibrary/c68/f5ohbhncu78zqgdjkaegpbfsa60yug1q.png" height="30" width="30" /></a>
