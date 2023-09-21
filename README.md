@@ -9,6 +9,7 @@
         <a href="https://t.me/bd986650"><img  draggable="false" style="witdh:119xp;height:20xp;"src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
         </a>
     </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bd986650&show_icons=true&locale=en&layout=compact" alt="" /></p>
 
 </div>
 
