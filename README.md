@@ -6,7 +6,7 @@
 </a>
     <p>
         <img draggable="false"style="witdh:119xp;height:20xp;" src="https://komarev.com/ghpvc/?username=bd986650&style=for-the-badge&color=2CA5E0">
-        <a href="https://t.me/chouqx"><img  draggable="false" style="witdh:119xp;height:20xp;"src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+        <a href="https://t.me/chouqxx"><img  draggable="false" style="witdh:119xp;height:20xp;"src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
         </a>
     </p>
 </div>
